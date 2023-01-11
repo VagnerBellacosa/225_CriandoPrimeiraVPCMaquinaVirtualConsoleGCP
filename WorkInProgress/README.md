@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando a primeira vpc e máquina virtual pelo console gcp](https://web.dio.me/lab/criando-a-primeira-vpc-e-maquina-virtual-pelo-console-gcp/learning/1fffe6ed-0808-4272-bfaa-1bd4186e6cfe)[Entendendo o Desafio](https://web.dio.me/lab/criando-a-primeira-vpc-e-maquina-virtual-pelo-console-gcp/learning/2ef24b73-d7ec-4d3d-8c1f-d3dc62fd0d25)
+- [Criando a primeira vpc e máquina virtual pelo console gcp](https://web.dio.me/lab/criando-a-primeira-vpc-e-maquina-virtual-pelo-console-gcp/learning/1fffe6ed-0808-4272-bfaa-1bd4186e6cfe)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-a-primeira-vpc-e-maquina-virtual-pelo-console-gcp/learning/2ef24b73-d7ec-4d3d-8c1f-d3dc62fd0d25)
 
 
 
